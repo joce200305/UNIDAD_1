@@ -1,0 +1,222 @@
+{
+  "main": {
+    "id": "06522339586638f2",
+    "type": "split",
+    "children": [
+      {
+        "id": "c30819a616785a1a",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "7eed13341aa8d139",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
+          },
+          {
+            "id": "231a606393843b59",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Unidad 1/00-Arquitectura de una aplicacion web.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "0a4c92ebeaa40dfa",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.4.5"
+              }
+            }
+          },
+          {
+            "id": "4338c38eb1324eeb",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Unidad 1/00-Arquitectura de una aplicacion web.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "6b9193205d2b8a3f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Unidad 1/00-Arquitectura de una aplicacion web.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "674031e90c3da25a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "TAREA 1.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ],
+        "currentTab": 5
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "12c273d42fa6563d",
+    "type": "split",
+    "children": [
+      {
+        "id": "1588342233867896",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "cee22ef561792f3b",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "eb397dbf19987b46",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "944691e216774fff",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "1d0b92477d2e94e4",
+    "type": "split",
+    "children": [
+      {
+        "id": "3db3e9ed4cf6d824",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "25de62c6d989b421",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "TAREA 1.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "231657f02525afd5",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "TAREA 1.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "e03ddf682c7bdb10",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "6fca68e78c0e6cf8",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "TAREA 1.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Abrir selector rápido": false,
+      "graph:Abrir vista gráfica": false,
+      "canvas:Crear nuevo canvas": false,
+      "daily-notes:Abrir la nota de hoy": false,
+      "templates:Insertar plantilla": false,
+      "command-palette:Abrir paleta de comandos": false
+    }
+  },
+  "active": "cee22ef561792f3b",
+  "lastOpenFiles": [
+    "proyecto/style.css",
+    "proyecto/estilos.css",
+    "proyecto/0.7-Seudo selector.html",
+    "proyecto/0.6-seletores.html",
+    "proyecto/0.5-formularios.html",
+    "proyecto/0.4-Imagenes.html",
+    "proyecto/0.3-TABLES.html",
+    "proyecto/0.2- UI y OI.html",
+    "proyecto/0.1-anchor tags.html",
+    "proyecto/0.0-textos.html",
+    "proyecto/0-8-Modelo.html",
+    "Unidad 1/00-Arquitectura de una aplicacion web.md",
+    "10 requerimientos de un cliente.md",
+    "TAREA 1.md",
+    "Sin título.md"
+  ]
+}
